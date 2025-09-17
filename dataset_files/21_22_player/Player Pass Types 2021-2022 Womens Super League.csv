@@ -1,0 +1,282 @@
+Rk,Player,Pos,"Squad
+▲",Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+1,Manuela Zinsberger,GK,Arsenal,25,1995,20,769,642,127,19,0,2,0,0,0,0,0,0,680,0,0
+2,Lotte Wubben-Moy,DF,Arsenal,22,1999,13.4,1139,1110,23,18,0,22,4,4,0,0,0,0,1010,6,4
+3,Leah Williamson,DF,Arsenal,24,1997,16.1,1217,1182,30,23,0,41,7,7,0,0,0,0,1010,5,8
+4,Lydia Williams,GK,Arsenal,33,1988,2,88,83,5,0,0,0,0,0,0,0,0,0,84,0,0
+5,Laura Wienroither,DF,Arsenal,22,1999,4,216,159,57,7,0,1,7,50,0,0,0,0,171,0,5
+6,Lia Wälti,MF,Arsenal,28,1993,17.6,1055,1027,23,16,0,3,8,6,1,0,0,1,884,5,23
+7,Viktoria Schnaderbeck,"DF,MF",Arsenal,30,1991,0.4,35,35,0,0,0,1,0,0,0,0,0,0,33,0,0
+8,Rafaelle,DF,Arsenal,30,1991,4.4,329,318,10,8,0,3,0,2,0,0,0,0,277,1,2
+9,Anna Patten,DF,Arsenal,22,1999,1.4,90,75,15,0,0,0,0,15,0,0,0,0,69,0,3
+10,Nikita Parris,FW,Arsenal,27,1994,6.8,161,155,5,0,0,0,10,4,1,1,0,0,103,1,11
+11,Jordan Nobbs,"MF,FW",Arsenal,28,1992,6.6,361,351,6,4,0,2,7,2,0,0,0,0,299,4,6
+12,Vivianne Miedema,"FW,MF",Arsenal,25,1996,19.2,595,562,28,4,1,9,9,2,1,0,0,0,425,5,30
+13,Beth Mead,"FW,MF",Arsenal,26,1995,19.1,825,733,90,18,1,8,93,5,67,32,3,11,575,2,39
+14,Katie McCabe,"DF,FW",Arsenal,25,1995,14.8,870,699,168,20,0,8,73,117,31,16,4,7,639,3,11
+15,Noelle Maritz,DF,Arsenal,25,1995,17.6,1023,770,251,18,0,5,30,230,3,2,0,0,836,2,23
+16,Frida Maanum,"MF,DF",Arsenal,22,1999,10.9,467,452,12,6,0,2,9,4,2,1,0,1,367,3,8
+17,Kim Little,MF,Arsenal,31,1990,19.8,959,946,10,6,0,9,23,2,2,1,1,0,816,3,29
+18,Mana Iwabuchi,"MF,FW",Arsenal,28,1993,5.5,244,236,7,2,0,2,4,4,1,0,0,0,195,1,5
+19,Halle Houssein,DF,Arsenal,16,2004,0.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+20,Alex Hennessy,"FW,DF",Arsenal,16,2004,0.1,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+21,Tobin Heath,"FW,MF",Arsenal,33,1988,3.3,146,123,23,7,0,0,15,6,10,5,0,0,99,0,6
+22,Teyah Goldie,DF,Arsenal,17,2004,0.1,7,7,0,0,0,0,0,0,0,0,0,0,7,0,0
+23,Caitlin Foord,"FW,MF",Arsenal,26,1994,8.8,276,263,9,0,0,0,16,4,0,0,0,0,200,4,15
+24,Steph Catley,DF,Arsenal,27,1994,14.3,978,750,220,22,0,5,80,156,42,26,6,4,766,8,25
+25,Simone Boye Sørensen,DF,Arsenal,29,1992,1.8,150,145,3,2,0,0,0,1,0,0,0,0,129,2,2
+26,Stina Blackstenius,FW,Arsenal,25,1996,7,136,129,7,0,1,3,5,1,0,0,0,0,100,0,6
+27,Jennifer Beattie,"DF,MF",Arsenal,30,1991,6.5,411,401,10,7,0,3,2,0,2,2,0,0,344,0,3
+28,Jill Scott,MF,Aston Villa,34,1987,5.7,268,265,2,1,0,1,4,1,0,0,0,0,183,1,8
+29,Meaghan Sargeant,DF,Aston Villa,27,1994,9.1,282,254,27,16,0,5,1,11,0,0,0,0,179,1,2
+30,Sian Rogers,GK,Aston Villa,23,1998,2.3,93,59,34,10,0,0,0,0,0,0,0,0,48,0,0
+31,Ramona Petzelberger,"FW,MF",Aston Villa,28,1992,18.4,531,503,25,3,0,3,21,5,9,4,0,1,398,3,21
+32,Anna Patten,DF,Aston Villa,22,1999,7,292,270,22,10,0,2,0,1,0,0,0,0,219,0,4
+33,Mayumi Pacheco,DF,Aston Villa,22,1998,22,1216,837,375,62,1,3,103,259,54,44,5,3,797,4,49
+34,Elisha N'Dow,DF,Aston Villa,24,1996,5.5,98,96,2,2,0,0,1,0,0,0,0,0,55,0,9
+35,Olivia McLoughlin,"MF,DF",Aston Villa,16,2004,5,116,105,11,0,0,0,1,11,0,0,0,0,80,0,5
+36,Sarah Mayling,DF,Aston Villa,24,1997,20.8,1268,837,420,43,1,6,91,346,31,21,2,3,806,11,42
+37,Ruesha Littlejohn,MF,Aston Villa,31,1990,11.1,382,378,3,3,0,7,1,0,0,0,0,0,306,1,6
+38,Alisha Lehmann,FW,Aston Villa,22,1999,18.9,411,389,19,2,0,0,51,8,4,2,2,0,241,3,35
+39,Jodie Hutton,"FW,MF",Aston Villa,20,2001,1.1,24,24,0,0,0,0,2,0,0,0,0,0,15,0,0
+40,Shania Hayles,FW,Aston Villa,21,1999,4.7,67,62,4,1,0,0,1,0,0,0,0,0,43,1,4
+41,Hannah Hampton,GK,Aston Villa,20,2000,19.7,835,594,235,82,0,1,0,0,0,0,0,0,412,6,1
+42,Natalie Haigh,MF,Aston Villa,21,1999,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Freya Gregory,FW,Aston Villa,18,2003,1.2,24,24,0,0,0,0,9,0,0,0,0,0,13,0,4
+44,Emily Gielnik,FW,Aston Villa,29,1992,12,232,221,7,0,0,0,6,1,0,0,0,0,132,4,8
+45,Marisa Ewers,MF,Aston Villa,32,1989,2.4,65,65,0,0,0,0,1,0,0,0,0,0,39,0,2
+46,Gemma Davison,"FW,MF",Aston Villa,34,1987,0.7,24,23,1,1,0,1,2,0,0,0,0,0,16,0,2
+47,Rachel Corsie,"DF,MF",Aston Villa,31,1989,5.3,261,246,14,11,0,1,1,3,0,0,0,0,209,1,3
+48,Chantelle Boye-Hlorkah,"FW,MF",Aston Villa,25,1995,11.1,270,256,14,1,2,1,38,7,2,1,0,0,142,0,23
+49,Laura Blindkilde,MF,Aston Villa,17,2003,7.4,232,229,3,0,1,0,6,0,0,0,0,0,180,0,8
+50,Anita Asante,DF,Aston Villa,36,1985,21,734,700,33,17,0,5,1,14,0,0,0,0,586,1,5
+51,Chloe Arthur,"MF,FW",Aston Villa,26,1995,10.8,293,283,9,2,0,3,5,6,0,0,0,0,189,1,13
+52,Remi Allen,MF,Aston Villa,30,1990,18.8,541,501,39,8,0,1,2,1,0,0,0,0,391,1,9
+53,Louanne Worsley,"FW,MF",Birmingham City,,,0.3,6,5,1,0,0,0,0,1,0,0,0,0,4,0,0
+54,Lucy Whipp,"MF,FW",Birmingham City,25,1995,5.9,103,101,2,1,0,0,2,0,0,0,0,0,65,0,3
+55,Emily Whelan,"FW,MF",Birmingham City,18,2002,5.5,94,87,7,0,1,1,7,1,1,0,0,0,46,0,12
+56,Arabella Suttie,DF,Birmingham City,,,0.1,2,1,1,0,0,0,1,1,0,0,0,0,0,0,1
+57,Libby Smith,"FW,DF",Birmingham City,19,2001,13.7,236,214,22,1,0,0,15,13,0,0,0,0,141,0,18
+58,Harriet Scott,DF,Birmingham City,28,1993,19.1,528,422,105,21,0,4,5,84,0,0,0,0,288,1,18
+59,Veatriki Sarri,"MF,FW",Birmingham City,23,1998,18.3,486,420,66,21,2,5,60,3,32,15,10,4,282,0,24
+60,Cecilie Sandvej,DF,Birmingham City,31,1990,4.7,100,93,6,6,0,2,0,0,0,0,0,0,70,1,2
+61,Eleanor Ryan-Doyle,FW,Birmingham City,23,1998,3.7,74,66,8,2,0,0,3,2,0,0,0,0,44,0,2
+62,Lisa Robertson,"MF,DF",Birmingham City,29,1992,13.1,395,317,76,11,0,0,11,62,3,1,2,0,206,2,8
+63,Emily Ramsey,GK,Birmingham City,20,2000,14.3,508,291,214,42,0,2,0,0,0,0,0,0,255,3,2
+64,Lucy Quinn,"FW,MF",Birmingham City,27,1993,18.5,404,368,33,12,3,6,29,8,11,3,0,2,221,3,18
+65,Louise Quinn,DF,Birmingham City,31,1990,22,515,490,25,24,0,0,0,1,0,0,0,0,277,0,6
+66,Jade Pennock,"FW,MF",Birmingham City,28,1993,15.7,305,267,36,0,0,0,11,3,0,0,0,0,173,2,9
+67,Christie Murray,MF,Birmingham City,31,1990,16.9,432,386,44,34,0,3,17,0,7,3,3,0,217,2,16
+68,Gemma Lawley,DF,Birmingham City,20,2001,18,412,371,39,16,0,2,1,23,0,0,0,0,229,2,14
+69,Lucy Jones,GK,Birmingham City,,,0.7,25,9,16,5,0,0,0,0,0,0,0,0,8,0,0
+70,Marie Hourihan,GK,Birmingham City,34,1987,7,240,131,109,16,0,0,0,0,0,0,0,0,117,0,0
+71,Rebecca Holloway,"DF,MF",Birmingham City,25,1995,16.3,654,384,264,22,1,0,23,242,0,0,0,0,318,6,20
+72,Jamie Finn,"DF,MF",Birmingham City,23,1998,18.3,522,348,172,4,0,0,27,168,0,0,0,0,278,2,25
+73,Sarah Ewens,"FW,MF",Birmingham City,29,1992,4.2,55,49,6,0,0,0,1,0,0,0,0,0,27,0,4
+74,Abbie Cowie,DF,Birmingham City,,,5,103,76,26,0,0,0,3,26,0,0,0,0,59,1,6
+75,Julia Zigiotti Olme,"MF,FW",Brighton,23,1997,6.3,194,183,11,4,0,1,4,4,2,1,1,0,130,0,0
+76,Victoria Williams,DF,Brighton,31,1990,20,770,730,37,32,0,13,3,3,0,0,0,0,574,3,17
+77,Aileen Whelan,"MF,FW",Brighton,29,1991,18.9,535,511,21,3,1,3,17,17,1,0,0,1,339,3,27
+78,Megan Walsh,GK,Brighton,26,1994,20,901,659,239,48,0,0,0,1,0,0,0,0,578,3,3
+79,Maisie Symonds,FW,Brighton,18,2003,4.1,174,162,10,3,1,0,15,1,3,2,1,0,121,2,4
+80,Katie Startup,GK,Brighton,22,1999,2,80,53,26,3,0,0,0,0,0,0,0,0,53,1,0
+81,Emily Simpkins,MF,Brighton,31,1990,5.4,197,187,10,6,0,1,5,0,3,3,0,0,143,0,9
+82,Katie Robinson,"FW,MF",Brighton,18,2002,1.4,42,36,6,1,0,1,6,4,1,0,1,0,22,0,3
+83,Maya Le Tissier,DF,Brighton,19,2002,22,1159,923,230,33,0,16,56,197,0,0,0,0,754,6,26
+84,Emma Kullberg,DF,Brighton,29,1991,10.9,495,396,97,5,0,1,19,91,1,1,0,0,338,2,13
+85,Emma Koivisto,"DF,MF",Brighton,26,1994,21.2,775,645,127,3,0,1,20,124,0,0,0,0,547,3,23
+86,Danique Kerkdijk,DF,Brighton,25,1996,15,637,590,43,35,0,6,3,8,0,0,0,0,459,4,3
+87,Inessa Kaagman,"MF,FW",Brighton,25,1996,16.5,548,466,77,19,1,1,70,21,35,24,2,4,325,5,25
+88,Kayleigh Green,"MF,FW",Brighton,33,1988,10.2,290,283,5,0,0,2,18,3,0,0,0,0,169,2,8
+89,Felicity Gibbons,DF,Brighton,27,1994,9.5,509,389,117,4,0,2,27,109,4,0,1,2,322,3,22
+90,Lee Geum-min,"FW,MF",Brighton,27,1994,12.5,367,355,9,0,1,2,13,4,0,0,0,0,270,3,9
+91,Megan Connolly,MF,Brighton,24,1997,16.1,574,502,68,33,0,7,51,3,32,15,8,8,375,4,6
+92,Danielle Carter,"FW,MF",Brighton,28,1993,16,377,310,64,0,0,0,15,18,2,0,0,1,248,3,12
+93,Danielle Buet,DF,Brighton,32,1988,0.9,28,28,0,0,0,0,0,0,0,0,0,0,16,0,1
+94,Ellie Brazil,"FW,MF",Brighton,22,1999,10.9,292,279,9,1,0,3,21,7,0,0,0,0,178,4,19
+95,Libby Bance,MF,Brighton,18,2003,1.2,30,30,0,0,0,0,2,0,0,0,0,0,24,0,1
+96,Rinsola Babajide,FW,Brighton,23,1998,1,29,28,1,0,0,0,2,0,1,0,0,0,18,0,3
+97,Drew Spence,MF,Chelsea,28,1992,4.8,256,254,2,1,1,3,0,1,0,0,0,0,208,0,5
+98,Ji So-yun,MF,Chelsea,30,1991,7.2,480,469,8,1,1,1,3,2,0,0,0,0,409,3,9
+99,Guro Reiten,"MF,DF",Chelsea,27,1994,16.6,719,619,97,21,0,3,95,42,32,15,6,5,463,3,27
+100,Aniek Nouwen,DF,Chelsea,22,1999,10.8,733,718,14,8,0,8,0,6,0,0,0,0,623,1,4
+101,Zećira Mušović,GK,Chelsea,25,1996,8.8,283,225,58,4,0,0,0,0,0,0,0,0,230,0,0
+102,Maren Mjelde,"DF,FW",Chelsea,31,1989,0.6,66,66,0,0,0,1,0,0,0,0,0,0,62,0,0
+103,Melanie Leupolz,MF,Chelsea,27,1994,5.7,218,216,0,0,0,0,1,0,0,0,0,0,166,2,3
+104,Fran Kirby,FW,Chelsea,28,1993,9.5,417,396,21,1,0,4,16,3,8,0,1,4,324,0,9
+105,Sam Kerr,FW,Chelsea,27,1993,17.3,523,515,6,0,0,1,38,1,1,1,0,0,325,2,19
+106,Lauren James,"FW,MF",Chelsea,19,2001,1.3,71,70,0,0,0,1,6,0,0,0,0,0,53,1,2
+107,Sophie Ingle,MF,Chelsea,29,1991,16.1,780,761,15,8,1,3,7,4,0,0,0,0,618,4,9
+108,Pernille Harder,"FW,MF",Chelsea,28,1992,13.3,372,365,5,1,3,0,22,4,0,0,0,0,252,2,12
+109,Jorja Fox,DF,Chelsea,17,2003,0.1,4,4,0,0,0,0,1,0,0,0,0,0,3,0,0
+110,Jessie Fleming,"FW,MF",Chelsea,23,1998,11.8,441,421,19,2,1,0,19,7,6,0,1,2,347,1,15
+111,Magdalena Eriksson,DF,Chelsea,27,1993,14,1025,905,117,21,0,9,16,94,2,0,1,0,823,3,6
+112,Bethany England,FW,Chelsea,27,1994,9.7,282,274,6,0,2,3,6,1,1,0,0,0,179,2,13
+113,Erin Cuthbert,"MF,FW",Chelsea,23,1998,16.8,864,720,138,24,0,4,100,47,65,20,22,13,635,6,29
+114,Niamh Charles,"DF,MF",Chelsea,22,1999,11.5,595,513,81,2,0,3,17,78,1,0,1,0,440,1,13
+115,Jess Carter,DF,Chelsea,23,1997,18.7,1154,1008,146,17,0,8,15,122,4,1,3,0,946,0,16
+116,Millie Bright,DF,Chelsea,27,1993,21.9,1665,1525,136,36,0,16,11,100,0,0,0,0,1308,4,15
+117,Ann-Katrin Berger,GK,Chelsea,30,1990,13.2,492,387,103,18,0,0,0,1,0,0,0,0,390,2,2
+118,Jonna Andersson,"MF,DF",Chelsea,28,1993,11.2,644,541,102,4,0,0,44,84,14,3,3,5,447,1,20
+119,Alsu Abdullina,"MF,FW",Chelsea,20,2001,0.5,31,27,4,0,0,0,1,3,1,0,1,0,18,0,2
+120,Danielle Turner,DF,Everton,30,1991,19.2,1083,816,258,15,0,2,27,238,5,5,0,0,744,9,32
+121,Nicoline Sørensen,"DF,FW",Everton,23,1997,1.1,39,34,5,0,0,0,6,5,0,0,0,0,26,0,3
+122,Rikke Sevecke,DF,Everton,25,1996,9.4,648,552,95,13,0,4,11,82,0,0,0,0,461,1,19
+123,Poppy Pattinson,DF,Everton,21,2000,8.4,428,305,121,11,1,0,15,108,2,0,0,0,272,2,19
+124,Leonie Maier,"DF,MF",Everton,28,1992,12.1,609,468,140,4,0,1,20,135,0,0,0,0,458,1,16
+125,Simone Magill,"FW,MF",Everton,26,1994,6.1,139,135,3,0,0,0,5,0,0,0,0,0,98,1,5
+126,Sandy MacIver,GK,Everton,23,1998,18,716,517,199,20,0,0,0,0,0,0,0,0,542,0,1
+127,Lucy Graham,MF,Everton,24,1996,10,377,367,8,4,0,1,2,4,0,0,0,0,269,2,12
+128,Gabrielle George,DF,Everton,24,1997,21,1267,1201,65,37,1,8,3,28,0,0,0,0,1017,1,20
+129,Valérie Gauvin,FW,Everton,25,1996,4.1,62,57,5,0,0,2,1,0,0,0,0,0,38,0,3
+130,Aurora Galli,MF,Everton,24,1996,15.9,643,626,15,5,0,3,5,4,1,1,0,0,493,2,14
+131,Megan Finnigan,DF,Everton,23,1998,12.3,578,555,23,17,0,7,0,6,0,0,0,0,451,0,2
+132,Claire Emslie,"FW,MF",Everton,27,1994,11.4,364,330,34,1,0,1,58,3,24,13,5,3,251,0,17
+133,Toni Duggan,FW,Everton,30,1991,17.1,519,495,22,0,0,1,21,11,0,0,0,0,365,2,21
+134,Kenza Dali,"MF,FW",Everton,30,1991,14.1,633,583,46,11,1,1,51,1,20,7,9,2,466,4,22
+135,Grace Clinton,"MF,FW",Everton,18,2003,2.4,74,70,4,0,0,2,0,1,0,0,0,0,55,0,1
+136,Izzy Christiansen,MF,Everton,29,1991,18.9,926,875,46,15,1,4,29,8,16,6,5,0,682,5,16
+137,Courtney Brosnan,GK,Everton,25,1995,4,169,130,39,4,0,0,0,0,0,0,0,0,141,0,0
+138,Nathalie Björn,DF,Everton,24,1997,12.6,792,721,69,21,0,5,4,45,3,3,0,0,613,2,13
+139,Hanna Bennison,"MF,FW",Everton,18,2002,13.6,424,384,38,12,0,3,20,10,14,7,3,3,303,2,8
+140,Anna Anvegard,"FW,MF",Everton,24,1997,10.4,267,259,7,0,0,2,12,1,0,0,0,0,160,1,7
+141,Samantha Tierney,"MF,DF",Leicester City,22,1998,20.6,599,575,23,15,0,4,6,6,1,1,0,0,410,1,15
+142,Mackenzie Smith,"MF,FW",Leicester City,,,1.2,19,17,2,0,0,0,1,1,1,1,0,0,10,0,2
+143,Jessica Sigsworth,FW,Leicester City,26,1994,12.5,198,182,13,0,0,1,11,0,0,0,0,0,107,3,9
+144,Connie Scofield,FW,Leicester City,22,1999,0.3,4,4,0,0,0,0,0,0,0,0,0,0,1,0,0
+145,Monique Robinson,MF,Leicester City,16,2004,0.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+146,Jemma Purfield,"DF,MF",Leicester City,24,1997,18.3,818,521,291,58,0,2,70,204,29,16,6,5,431,6,23
+147,Ashleigh Plumptre,DF,Leicester City,23,1998,19.3,710,678,28,17,0,0,6,9,2,0,1,1,477,4,12
+148,Molly Pike,MF,Leicester City,20,2001,19.7,394,378,14,9,2,0,11,1,1,1,0,0,224,2,17
+149,Lachante Paul,"FW,DF",Leicester City,18,2002,0.7,19,18,1,0,0,0,1,0,1,0,1,0,9,0,2
+150,Shannon O’Brien,"MF,FW",Leicester City,19,2001,19.1,317,298,17,2,2,1,12,3,1,1,0,0,166,2,10
+151,Esther Morgan,MF,Leicester City,18,2002,0.3,12,12,0,0,0,0,2,0,0,0,0,0,9,0,0
+152,Abbie McManus,"DF,MF",Leicester City,28,1993,17.3,687,644,40,34,0,2,5,5,0,0,0,0,486,3,10
+153,Kirstie Levell,GK,Leicester City,24,1997,7,279,168,110,24,0,2,0,0,0,0,0,0,175,1,0
+154,Demi Lambourne,GK,Leicester City,25,1996,14,505,334,170,33,0,1,0,0,0,0,0,0,306,1,0
+155,Sophie Howard,DF,Leicester City,27,1993,18.5,664,566,96,17,0,2,9,78,0,0,0,0,404,2,18
+156,Sophie Harris,GK,Leicester City,26,1994,1,30,19,11,0,0,0,0,0,0,0,0,0,22,0,0
+157,Freya Gregory,"MF,FW",Leicester City,18,2003,9.4,146,135,9,0,0,0,29,4,5,2,0,3,80,2,9
+158,Abbi Grant,FW,Leicester City,25,1995,0.5,11,11,0,0,0,0,0,0,0,0,0,0,9,0,0
+159,Esmee de Graaf,"DF,MF",Leicester City,23,1997,17.9,632,453,175,2,0,0,20,171,2,0,1,1,358,4,13
+160,Missy Goodwin,"MF,FW",Leicester City,18,2003,3.8,67,62,2,0,0,0,1,1,1,0,0,1,43,3,0
+161,Natasha Flint,"FW,MF",Leicester City,24,1996,13.9,292,253,39,0,0,6,4,1,0,0,0,0,191,0,16
+162,Charlotte Devlin,"MF,FW",Leicester City,23,1998,1.9,67,60,6,3,0,0,8,0,3,2,1,0,47,1,3
+163,Hannah Cain,"MF,DF",Leicester City,22,1999,3.1,113,85,28,3,0,0,10,18,7,1,4,0,59,0,2
+164,Georgia Brougham,DF,Leicester City,25,1996,8.1,209,169,39,7,0,2,1,32,0,0,0,0,132,1,4
+165,CJ Bott,DF,Leicester City,26,1995,0.6,17,13,4,1,0,0,0,3,0,0,0,0,11,0,1
+166,Elysia Boddy,MF,Leicester City,17,2004,0.2,7,7,0,0,0,0,0,0,0,0,0,0,3,0,1
+167,Sophie Barker,"MF,DF",Leicester City,30,1990,7.8,237,214,22,2,0,0,4,20,0,0,0,0,158,1,6
+168,Ava Baker,"FW,MF",Leicester City,15,2006,0.3,7,7,0,0,0,0,1,0,0,0,0,0,4,0,0
+169,Paige Bailey-Gayle,"FW,DF",Leicester City,19,2001,4,87,65,21,0,0,0,6,14,0,0,0,0,52,1,6
+170,Ellen White,FW,Manchester City,32,1989,13.6,314,283,30,0,0,0,3,1,1,0,1,0,245,1,5
+171,Caroline Weir,MF,Manchester City,26,1995,16.2,761,701,57,15,2,0,43,6,35,23,2,4,627,3,12
+172,Keira Walsh,MF,Manchester City,24,1997,16.7,1025,1011,13,12,3,9,8,1,0,0,0,0,898,1,16
+173,Demi Stokes,DF,Manchester City,29,1991,17.1,1041,807,231,15,0,3,21,216,0,0,0,0,856,3,27
+174,Georgia Stanway,"MF,DF",Manchester City,22,1999,18.5,1119,1016,102,12,3,8,43,62,28,9,3,12,917,1,18
+175,Khadija Shaw,FW,Manchester City,24,1997,8.8,183,170,13,0,0,0,3,0,0,0,0,0,144,0,5
+176,Jill Scott,DF,Manchester City,34,1987,5.5,366,362,3,2,0,2,0,1,0,0,0,0,319,1,1
+177,Ellie Roebuck,GK,Manchester City,21,1999,10,378,323,55,4,0,0,0,0,0,0,0,0,356,0,1
+178,Hayley Raso,FW,Manchester City,26,1994,7.1,181,179,2,1,0,0,15,1,0,0,0,0,126,0,9
+179,Jessica Park,FW,Manchester City,19,2001,7.8,197,194,2,1,0,0,20,0,1,1,0,0,143,1,10
+180,Esme Morgan,DF,Manchester City,20,2000,1.2,70,59,11,1,0,0,1,10,0,0,0,0,46,0,4
+181,Ruby Mace,DF,Manchester City,17,2003,2.9,243,217,26,2,0,3,4,23,1,1,0,0,204,0,3
+182,Vicky Losada,MF,Manchester City,30,1991,6.6,340,311,28,7,0,2,25,0,21,12,4,0,287,1,4
+183,Alanna Kennedy,DF,Manchester City,26,1995,12.8,1089,1082,5,5,0,3,0,0,0,0,0,0,955,2,4
+184,Chloe Kelly,FW,Manchester City,23,1998,3.4,115,101,14,3,0,2,24,2,9,5,1,0,80,0,2
+185,Khiara Keating,GK,Manchester City,17,2004,2,48,41,7,0,0,0,0,0,0,0,0,0,44,0,0
+186,Steph Houghton,DF,Manchester City,33,1988,4,345,339,6,6,0,4,0,0,0,0,0,0,296,0,6
+187,Lauren Hemp,FW,Manchester City,20,2000,19.3,650,635,12,4,0,2,82,4,4,0,1,0,439,3,28
+188,Alex Greenwood,DF,Manchester City,27,1993,21.4,2002,1862,134,64,2,13,68,15,55,28,8,7,1685,6,7
+189,Laura Coombs,"MF,FW",Manchester City,30,1991,7.1,360,356,3,2,0,1,5,1,0,0,0,0,309,1,4
+190,Lucy Bronze,DF,Manchester City,29,1991,12.8,1020,839,179,14,0,5,36,164,1,0,0,0,759,2,25
+191,Julie Blakstad,"DF,FW",Manchester City,19,2001,3.8,238,194,44,2,0,1,9,42,0,0,0,0,192,0,4
+192,Karima Benameur,GK,Manchester City,32,1989,10,354,285,69,11,0,1,0,0,0,0,0,0,319,0,0
+193,Janine Beckie,"FW,DF",Manchester City,26,1994,5.6,252,224,28,1,0,0,26,27,0,0,0,0,179,0,9
+194,Filippa Angeldahl,MF,Manchester City,24,1997,7.2,377,363,13,3,0,2,17,3,7,4,0,3,299,1,11
+195,Katie Zelem,MF,Manchester Utd,25,1996,22,1279,1108,164,46,1,6,129,1,109,32,27,29,880,7,17
+196,Millie Turner,DF,Manchester Utd,25,1996,2.9,265,262,3,3,0,1,0,0,0,0,0,0,227,0,0
+197,Ella Toone,"MF,FW",Manchester Utd,21,1999,21.1,873,823,38,4,7,4,35,19,7,1,3,1,602,12,33
+198,Maria Thorisdottir,DF,Manchester Utd,28,1993,18.2,990,966,23,18,0,4,5,5,0,0,0,0,792,1,3
+199,Martha Thomas,FW,Manchester Utd,25,1996,10,228,220,6,0,0,0,21,5,0,0,0,0,143,2,19
+200,Lucy Staniforth,"MF,FW",Manchester Utd,28,1992,6.3,267,239,28,8,0,2,22,2,13,2,4,4,197,0,2
+201,Kirsty Smith,DF,Manchester Utd,27,1994,2.1,114,90,24,0,0,0,1,24,0,0,0,0,86,0,1
+202,Alessia Russo,"FW,MF",Manchester Utd,22,1999,17.5,407,376,22,2,3,3,34,4,1,0,0,0,267,9,22
+203,Jade Moore,MF,Manchester Utd,30,1990,0.5,14,14,0,0,0,0,0,0,0,0,0,0,7,0,0
+204,Aoife Mannion,DF,Manchester Utd,25,1995,12,791,772,18,17,0,6,2,1,0,0,0,0,701,1,1
+205,Hayley Ladd,"MF,DF",Manchester Utd,27,1993,12,578,571,6,4,1,1,2,1,0,0,0,0,459,1,11
+206,Carrie Jones,FW,Manchester Utd,17,2003,0.3,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0
+207,Martha Harris,DF,Manchester Utd,26,1994,0.1,13,9,4,0,0,0,0,4,0,0,0,0,11,0,1
+208,Kirsty Hanson,FW,Manchester Utd,23,1998,8.1,241,233,4,1,1,1,23,2,0,0,0,0,163,4,8
+209,Jackie Groenen,MF,Manchester Utd,26,1994,11.8,494,487,2,1,2,2,10,0,0,0,0,0,379,5,12
+210,Leah Galton,FW,Manchester Utd,27,1994,18.9,536,516,17,0,0,4,28,16,0,0,0,0,387,3,21
+211,Ivana Fuso,"FW,MF",Manchester Utd,20,2001,0.9,21,20,1,0,1,0,0,0,0,0,0,0,15,0,2
+212,Mary Earps,GK,Manchester Utd,28,1993,22,803,601,201,41,0,0,1,0,1,0,1,0,650,1,2
+213,Diane Caldwell,DF,Manchester Utd,32,1988,5,151,142,9,8,0,1,0,1,0,0,0,0,112,0,1
+214,Vilde Bøe Risa,"MF,FW",Manchester Utd,26,1995,7.8,283,275,7,1,0,1,11,2,3,0,1,0,200,1,8
+215,Signe Bruun,"FW,MF",Manchester Utd,23,1998,2.1,49,49,0,0,0,1,0,0,0,0,0,0,32,0,2
+216,Hannah Blundell,DF,Manchester Utd,27,1994,19.6,1114,840,268,17,1,4,12,251,0,0,0,0,867,6,18
+217,Ona Batlle,DF,Manchester Utd,22,1999,20.8,1306,989,313,12,0,2,29,300,1,0,0,0,1003,4,40
+218,Lily Woodham,"DF,MF",Reading,20,2000,19.5,875,590,284,29,0,4,54,220,35,26,1,1,555,1,22
+219,Justine Vanhaevermaet,"MF,DF",Reading,29,1992,17.6,696,680,9,7,0,6,3,1,0,0,0,0,469,7,26
+220,Sanne Troelsgaard Nielsen,MF,Reading,32,1988,9.9,279,266,11,2,0,1,1,6,0,0,0,0,174,2,10
+221,Rhiannon Stewart,GK,Reading,,,2.5,82,53,29,2,0,1,0,0,0,0,0,0,63,0,1
+222,Rachel Rowe,"MF,FW",Reading,28,1992,10.5,298,270,27,6,0,3,19,7,7,3,4,0,196,1,11
+223,Deanne Rose,"FW,MF",Reading,22,1999,18.6,302,295,6,2,0,1,39,1,0,0,0,0,165,1,28
+224,Beth Roberts,"DF,FW",Reading,18,2003,0.8,26,23,3,1,0,0,0,2,0,0,0,0,14,0,0
+225,Tia Primmer,"MF,FW",Reading,17,2004,2.4,66,64,1,0,0,0,2,0,1,1,0,0,44,1,0
+226,Chloe Peplow,"MF,DF",Reading,22,1998,8.8,285,282,2,2,0,2,0,0,0,0,0,0,212,1,6
+227,Grace Moloney,GK,Reading,28,1993,19.5,793,525,268,81,0,0,0,0,0,0,0,0,542,0,0
+228,Emma Harries,"MF,FW",Reading,19,2002,12.5,199,180,19,3,0,0,17,3,3,2,1,0,114,0,11
+229,Natasha Harding,"DF,MF",Reading,32,1989,20.2,661,559,100,18,0,1,19,73,3,1,0,0,397,2,19
+230,Jeon Ga-eul,"FW,DF",Reading,32,1988,0.2,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0
+231,Gemma Evans,DF,Reading,24,1996,22,916,861,52,32,0,4,3,11,0,0,0,0,617,3,14
+232,Amalie Eikeland,"MF,FW",Reading,25,1995,19.2,370,358,11,2,0,0,14,5,0,0,0,0,243,1,18
+233,Natasha Dowie,FW,Reading,33,1988,15.3,228,194,33,0,0,0,6,3,2,2,0,0,147,1,6
+234,Deanna Cooper,DF,Reading,28,1993,14.6,756,718,36,31,0,13,0,3,0,0,0,0,524,2,12
+235,Brooke Chaplen,"MF,FW",Reading,32,1989,8,166,157,9,0,0,1,12,1,7,5,0,2,111,0,6
+236,Faye Bryson,"DF,MF",Reading,24,1997,20,882,591,289,26,0,2,60,244,19,14,0,5,492,2,33
+237,Shelina Zadorsky,DF,Tottenham,28,1992,20.4,891,856,30,19,0,11,4,11,0,0,0,0,647,5,15
+238,Rachel Williams,FW,Tottenham,33,1988,20,576,538,34,1,3,3,11,8,1,0,0,0,414,4,13
+239,Chioma Ubogagu,"FW,MF",Tottenham,28,1992,5.5,152,152,0,0,2,0,6,0,0,0,0,0,93,0,10
+240,Eveliina Summanen,"MF,FW",Tottenham,23,1998,7.8,349,329,20,16,0,2,11,1,3,3,0,0,254,0,6
+241,Rebecca Spencer,GK,Tottenham,30,1991,11,419,301,115,24,0,0,0,0,0,0,0,0,317,3,0
+242,Cho So-hyun,"MF,FW",Tottenham,33,1988,6.7,219,214,5,0,1,0,4,3,0,0,0,0,142,0,6
+243,Kyah Simon,"FW,MF",Tottenham,30,1991,10.2,295,280,13,3,1,0,14,3,3,2,0,1,195,2,9
+244,Viktoria Schnaderbeck,DF,Tottenham,30,1991,2.7,121,121,0,0,0,0,0,0,0,0,0,0,96,0,0
+245,Ria Percival,"MF,DF",Tottenham,31,1989,16.8,654,550,101,21,0,0,71,35,45,19,8,11,421,3,30
+246,Ashleigh Neville,"DF,MF",Tottenham,28,1993,20.4,1119,887,227,12,0,6,46,215,0,0,0,0,695,5,31
+247,Jessica Naz,"FW,MF",Tottenham,20,2000,13.1,382,374,7,2,2,2,20,5,0,0,0,0,269,1,15
+248,Isabella Lane,"DF,MF",Tottenham,17,2003,0.3,6,5,1,0,0,0,0,1,0,0,0,0,2,0,1
+249,Tinja-Riikka Korpela,GK,Tottenham,35,1986,11,388,275,113,22,0,0,0,0,0,0,0,0,304,0,2
+250,Tang Jiali,FW,Tottenham,26,1995,2.9,82,79,3,0,0,0,0,0,0,0,0,0,62,0,4
+251,Kerys Harrop,"DF,MF",Tottenham,30,1990,16.8,860,689,169,11,0,3,21,158,0,0,0,0,617,2,27
+252,Josephine Green,MF,Tottenham,28,1993,6,213,199,13,6,0,0,10,1,5,0,3,1,158,1,3
+253,Kit Graham,"FW,MF",Tottenham,25,1995,5.9,237,184,52,20,3,1,32,5,20,12,0,0,139,1,11
+254,Maéva Clemaron,MF,Tottenham,28,1992,19.3,922,906,9,4,0,1,5,3,1,1,0,0,669,7,23
+255,Molly Bartrip,DF,Tottenham,25,1996,22,1101,1006,93,58,0,10,16,13,22,9,4,2,901,2,11
+256,Rosella Ayane,"FW,MF",Tottenham,25,1996,8.4,226,215,10,1,0,2,11,5,1,1,0,0,152,1,12
+257,Asmita Ale,"DF,MF",Tottenham,19,2001,10.7,619,467,152,1,0,3,20,151,0,0,0,0,423,0,17
+258,Angela Addison,"MF,FW",Tottenham,21,1999,3.9,119,116,3,1,0,0,6,2,0,0,0,0,76,0,5
+259,Tameka Yallop,"MF,FW",West Ham,30,1991,13.4,395,384,11,2,1,1,23,6,1,0,0,1,286,0,10
+260,Zaneta Wyne,"DF,MF",West Ham,31,1990,12.7,455,407,46,3,0,3,23,43,0,0,0,0,300,2,19
+261,Claudia Walker,FW,West Ham,25,1996,15,282,269,12,0,1,1,20,1,0,0,0,0,176,1,19
+262,Kateřina Svitková,"DF,MF",West Ham,25,1996,17.2,782,653,125,15,0,11,95,70,40,22,2,7,449,4,47
+263,Abbey-Leigh Stringer,"MF,FW",West Ham,26,1995,12.4,456,443,11,8,0,7,1,3,0,0,0,0,345,2,12
+264,Emma Snerle,"MF,FW",West Ham,20,2001,5.1,142,132,8,0,0,0,3,2,0,0,0,0,101,2,2
+265,Lucy Parker,"DF,MF",West Ham,22,1998,9.4,400,337,61,7,0,2,2,53,1,1,0,0,262,2,17
+266,Kate Longhurst,DF,West Ham,32,1989,19.5,945,763,177,27,1,4,55,150,0,0,0,0,605,5,24
+267,Adriana Leon,FW,West Ham,28,1992,10.8,247,187,58,14,0,2,50,16,16,5,4,6,155,2,10
+268,Anna Leat,GK,West Ham,20,2001,4,170,124,46,8,0,0,0,0,0,0,0,0,104,0,0
+269,Lois Joel,DF,West Ham,22,1999,1.3,44,42,2,0,0,0,5,2,0,0,0,0,15,0,6
+270,Halle Houssein,"MF,FW",West Ham,16,2004,0.3,13,13,0,0,0,0,0,0,0,0,0,0,8,0,1
+271,Yui Hasegawa,"MF,FW",West Ham,24,1997,16.2,652,593,57,11,0,5,39,14,13,4,5,1,459,2,8
+272,Grace Garrad,"DF,FW",West Ham,18,2003,0.1,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0
+273,Gilly Flaherty,DF,West Ham,29,1991,19,733,602,130,35,0,7,7,95,0,0,0,0,511,1,6
+274,Grace Fisk,DF,West Ham,23,1998,15,808,652,155,32,0,4,7,123,0,0,0,0,553,1,15
+275,Melisa Filis,"MF,FW",West Ham,19,2002,4.3,106,100,5,1,0,1,7,2,0,0,0,0,67,1,3
+276,Lisa Evans,"FW,DF",West Ham,29,1992,11.6,339,304,35,2,0,2,26,29,1,0,0,0,223,0,14
+277,Hawa Cissoko,DF,West Ham,24,1997,17,564,515,48,17,0,5,4,31,0,0,0,0,428,1,11
+278,Brooke Cairns,FW,West Ham,18,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+279,Dagný Brynjarsdóttir,"MF,FW",West Ham,29,1991,18.6,468,460,4,2,0,3,5,2,0,0,0,0,274,4,13
+280,Mackenzie Arnold,GK,West Ham,27,1994,18,747,506,239,66,0,2,0,0,0,0,0,0,507,2,0
